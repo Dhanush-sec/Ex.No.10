@@ -1,66 +1,124 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+## Date: 22/10/25
+## Reg. No. 212222210006
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
 
 ## Procedure:
-1.	Introduction to Prompt Patterns: Begin by understanding the following prompt patterns:
-○	Query Decomposition: Breaking down complex queries into smaller, actionable parts.
-○	Decision Making: Asking the model to choose between options or directions.
-○	Answer Engineering: Refining outputs by giving detailed instructions on how to structure or format the answer.
-○	Fact Check List: Ensuring the content is factually accurate, especially for reports or case studies.
-○	Tail Generation: Extending the content logically to create depth in storytelling or analysis.
-○	Menu Actions: Presenting multiple action choices and guiding the AI to select one.
-○	Semantic Filter: Applying filters to control the tone, style, and accuracy of the content.
-2.	Choosing the Content Type: Decide on the type of content you want to create. This could be:
-○	Reports (e.g., industry analysis, sustainability reports, etc.)
-○	Case Studies (e.g., business solutions, technological innovations)
-○	Articles (e.g., opinion pieces, educational articles)
-○	Creative Content (e.g., comic book story, short stories, video scripts)
-3.	For example, you could choose a business report on market trends, a case study on a successful startup, or even a story-based prompt like creating a fictional world for a comic.
-4.	Creating the Prompts:
-○	Start with simple prompts to generate initial content.
-○	Gradually refine the prompts, moving toward more complex techniques like decision-making (asking the model to pick one of several options), tail generation (extending the narrative), and semantic filtering (adjusting style or tone).
-5.	Generating and Refining Outputs: Use the model to generate initial drafts, and then refine the outputs using iterative adjustments:
-○	For a report, prompt the model with basic data, then ask for a deeper analysis and insights.
-○	For creative content, refine the initial story idea with specific details on characters, settings, or actions.
-6.	Review and Evaluation: After generating content, evaluate the outputs for:
-○	Coherence: Is the generated content logical and structured?
-○	Creativity/Originality: Is the content engaging and fresh?
-○	Accuracy: Is the content factually accurate (for reports and case studies)?
-○	Tone and Style: Does the content match the intended tone (formal, creative, educational)?
-________________________________________
-Test Case Scenarios for Content Generation: (USE ANY 2)
-content generation scenarios:
-1.	Business Report on Market Trends
-2.	Case Study on Business Success
-3.	Article on Climate Change
-4.	Creative Writing - Sci-Fi Short Story
-5.	Educational Report on Renewable Energy
-6.	Product Launch Announcement
-7.	Travel Blog Post
-8.	Research Paper on Artificial Intelligence
-9.	Interview Transcript for Documentary
-10.	Sustainability Practices in Fashion
-11.	How to Build an E-commerce Website
-12.	Social Issue Awareness Campaign
-13.	Artificial Intelligence Impact on Healthcare
-## Instructions:
-1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
-2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
-3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
-4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
-5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
+---
 
-## Deliverables:
-1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
-2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
-3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
-4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+## **Apparatus / Tools Required:**
 
-## Conclusion:
-By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+* ChatGPT or any other Large Language Model (LLM)-based AI tool
+* Internet connection
+* Text editor or word processor
+
+---
+
+## **Theory:**
+
+Prompt engineering plays a vital role in generating structured and meaningful content using AI models. Business reports and case studies demand formal tone, analytical reasoning, and clear organization. Using prompt patterns like **decision-making**, **comparative**, and **SWOT-based prompting**, the AI can be guided to produce professional-grade reports.
+
+Different prompting techniques serve distinct purposes:
+
+* **Decision-Making Prompts:** Help the AI choose between multiple strategic options.
+* **Comparative Prompts:** Instruct the AI to evaluate two or more business cases or products.
+* **SWOT-Based Prompts:** Guide the model to analyze Strengths, Weaknesses, Opportunities, and Threats for a company or idea.
+* **Semantic Filtering:** Ensures that the tone, structure, and vocabulary align with professional business writing standards.
+
+By combining these techniques, users can generate well-organized, factual, and insightful business documents.
+
+---
+
+## **Procedure:**
+
+1. **Introduction to Prompt Patterns:**
+   Understand the following patterns and their roles in report generation:
+
+   * **Query Decomposition:** Breaks complex problems into smaller queries.
+   * **Decision-Making Prompts:** Instructs AI to select or justify strategic options.
+   * **Comparative Prompts:** Evaluates alternatives or competitors.
+   * **SWOT-Based Prompts:** Structures analytical reports with SWOT framework.
+   * **Answer Engineering:** Specifies formatting and structure for clarity.
+   * **Semantic Filter:** Maintains professional tone and relevance.
+
+2. **Choosing the Content Type:**
+   Select a content type relevant to the business domain:
+
+   * Business report (e.g., market trend analysis)
+   * Case study (e.g., success story of a startup)
+   * Feasibility report or industry study
+
+3. **Creating the Prompts:**
+
+   * Begin with simple prompts like “Write a business report on electric vehicle market trends.”
+   * Refine by adding complexity: “Include a SWOT analysis and compare market share growth between India and China.”
+   * Apply **semantic filters** for tone and factual correctness: “Use formal business English with a data-driven perspective.”
+
+4. **Generating and Refining Outputs:**
+
+   * Use iterative prompting to refine the structure, accuracy, and insights.
+   * Introduce decision-making elements like: “Based on SWOT, recommend the best market expansion strategy.”
+
+5. **Review and Evaluation:**
+   Evaluate generated outputs for:
+
+   * **Coherence:** Logical flow and organization of ideas.
+   * **Professional Tone:** Appropriateness for business contexts.
+   * **Analytical Depth:** Use of reasoning and supporting data.
+   * **Accuracy:** Realistic and factual insights.
+
+---
+
+## **Test Case Scenarios:**
+
+**Scenario 1:** *Business Report on Market Trends – Electric Vehicles in India*
+**Scenario 2:** *Case Study on Business Success – Zomato’s Expansion Strategy*
+
+---
+
+### **Example Prompts and Outputs**
+
+**Prompt 1 (Basic):**
+“Write a report on the growth of the electric vehicle market in India.”
+
+**Prompt 2 (Refined – Using Comparative Prompt):**
+“Compare the growth of the electric vehicle market in India with China, including factors such as government policies, technology adoption, and consumer preferences.”
+
+**Prompt 3 (Advanced – Using SWOT & Decision-Making):**
+“Prepare a professional business report on the Indian electric vehicle market using SWOT analysis. Include recommendations for market entry strategies for a new EV startup.”
+
+**Generated Insights (Expected Output Summary):**
+
+* **Strengths:** Government incentives, growing consumer awareness.
+* **Weaknesses:** Limited charging infrastructure, high cost.
+* **Opportunities:** Urbanization, eco-friendly trends.
+* **Threats:** Competition from established brands, import dependency.
+
+---
+
+## **Observations:**
+
+* Structured prompting improved the analytical clarity of reports.
+* Decision-making and SWOT-based prompts enhanced the reasoning and strategic insight.
+* Comparative prompts resulted in more comprehensive evaluations.
+* The tone became more formal and data-oriented as semantic filters were applied.
+
+---
+
+## **Result:**
+
+By applying structured prompt patterns such as decision-making, comparative, and SWOT-based prompts, business reports and case studies were generated with greater depth, accuracy, and professionalism. The experiment successfully demonstrated that refined prompting leads to higher-quality and more contextually appropriate outputs.
+
+---
+
+## **Conclusion:**
+
+This experiment proves that structured prompt engineering significantly enhances the quality of AI-generated business content. Techniques like decision-making prompts, comparative prompts, and SWOT-based analysis help in generating coherent, insightful, and professional business documents. These prompt patterns are effective tools for content creators, researchers, and corporate analysts to produce well-structured reports and case studies with improved analytical value.
+
+---
+
+
